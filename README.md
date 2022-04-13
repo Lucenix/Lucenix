@@ -1,6 +1,6 @@
-### I am Lucena, also known as Lucenix
+## I am Lucena, also known as Lucenix
 
-## Currently studying Computer Science at University of Minho
+### Currently studying Computer Science at University of Minho
 
 - 🔭 I’m currently working on Student Assignments 
 - 🌱 I’m currently learning C, Java, Python and Unity

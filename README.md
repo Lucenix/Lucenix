@@ -1,4 +1,4 @@
-## I am Lucena, also known as Lucenix
+## Behold Lucena, also known as Lucenix
 
 ### Currently studying Computer Science at University of Minho
 

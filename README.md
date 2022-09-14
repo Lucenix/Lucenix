@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Games
 - 🤔 I’m looking for help with how to start making a Game on Unity
 - 💬 Ask me about School related business
-- 📫 How to reach me: lucenix.pro@gmail.com
+- 📫 How to reach me: lucena.ferreira.pro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know?
 

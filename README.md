@@ -1,14 +1,14 @@
 ## Behold Lucena, also known as Lucenix
 
-### Currently studying Computer Science at University of Minho
+### Currently completing a Bachelor's Degree in Computer Science at University of Minho
 
-- 🔭 I’m currently working on Student Assignments 
-- 🌱 I’m currently learning C, Java, Python and Unity
+- 🔭 I’m currently working on Student Assignments
+- 🌱 I’m currently learning C, ~~Java~~, Python and Unity (kinda)
 - 👯 I’m looking to collaborate on Games
-- 🤔 I’m looking for help with how to start making a Game on Unity
-- 💬 Ask me about School related business
+- 🤔 I’m looking for help with how to organize my life *help*
+- 💬 Ask me about School related business, Music, Games
 - 📫 How to reach me: lucena.ferreira.pro@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know?
+- ⚡ Fun fact: Did you know that?
 
 ![Lucenix's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenix&theme=blue-green)

@@ -3,7 +3,7 @@
 ### Currently enrolled in Software Engineering Master's at University of Minho
 
 - 🔭 I’m currently working on Student Assignments
-- 🌱 I’m currently learning ~~Haskell~~, ~~C~~, ~~Java~~, ~~Python~~, ~~Erlang~~, ~~Jean Francaix Clarinet Concerto~~, Brotons Clarinet Sonata, Go, Vue
+- 🌱 I’m currently learning ~~Haskell~~, ~~C~~, ~~Java~~, ~~Python~~, ~~Erlang~~, ~~Jean Francaix Clarinet Concerto~~, Brotons Clarinet Sonata, ~~Go~~, Vue, Spark
 - 👯 I’m looking to collaborate on Games
 - 🤔 I’m looking for help with how to organize my life *help* *double help come on*
 - 💬 Ask me about University, Computer Science, Music, Games

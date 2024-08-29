@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Games
 - 🤔 I’m looking for help with how to organize my life *help* *double help come on*
 - 💬 Ask me about University, Computer Science, Music, Games
-- 📫 How to reach me: lucena.ferreira.pro@gmail.com
+- 📫 How to reach me: andre.lucena.pro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that a total solar eclise is really rare, like, in the planet sense?
 
